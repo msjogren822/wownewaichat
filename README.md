@@ -1,3 +1,6 @@
+Don't get yout undies in a bundle, I am just testing this out. It is not like I am even capable of doing the UI for this stuff. -Matt
+
+
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Next.js AI Chatbot</h1>
